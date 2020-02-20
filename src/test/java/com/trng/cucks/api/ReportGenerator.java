@@ -1,4 +1,4 @@
-package com.vodafone.vois.cucks.api;
+package com.trng.cucks.api;
 
 import java.io.File;
 import java.util.ArrayList;

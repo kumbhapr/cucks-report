@@ -1,4 +1,4 @@
-package com.vodafone.vois.cucks.api.constant;
+package com.trng.cucks.api.constant;
 
 public class Constants {
 

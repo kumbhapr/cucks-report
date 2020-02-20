@@ -1,4 +1,4 @@
-package com.vodafone.vois.cucks.api;
+package com.trng.cucks.api;
 
 import java.util.List;
 import java.util.Map;
@@ -6,15 +6,13 @@ import java.util.Map.Entry;
 
 import org.junit.Assert;
 
-import com.vodafone.vois.cucks.api.constant.Constants;
+import com.trng.cucks.api.constant.Constants;
 
 import cucumber.api.DataTable;
-import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import kong.unirest.Header;
-import kong.unirest.Headers;
 import kong.unirest.HttpResponse;
 import kong.unirest.JsonNode;
 import kong.unirest.Unirest;
